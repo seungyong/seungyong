@@ -1,17 +1,12 @@
 # 안녕하세요! 👋
 
-## 💼 소개
-저는 **백엔드 개발자** **Seungyong**입니다. 다양한 기술 스택을 활용하여 효율적이고 견고한 애플리케이션을 개발하는 것을 좋아합니다.
-
-<div style="display: flex; gap: 20px; margin-top: 10px;">
+<div align="center">
   <!-- Notion Badge -->
-  <a href="https://www.notion.so/9083b3565fb9478ead59bfe8bc7d3ebb?pvs=4" target="_blank">
-    <img src="https://img.shields.io/badge/Notion%20Page-000000?logo=notion&logoColor=white" alt="Portfolio" />
-  </a>
+  
+  ![Notion](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  
   <!-- Tistory Badge -->
-  <a href="https://seungyong20.tistory.com" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-1e1e1e?logo=tistory&logoColor=white" alt="Tistory" />
-  </a>
+  ![Tistory](https://img.shields.io/badge/Tistory-%23000000.svg?style=for-the-badge&logo=tistory&logoColor=orange)
 </div>
 
 ## 🛠 기술 스택
@@ -33,12 +28,19 @@
 </div>
 
 ## 📊 Information
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=seungyong&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
+</a>
+<a href="https://github.com/devpla/github-stats">
+ <img src="https://raw.githubusercontent.com/devpla/github-stats/output/generated/languages.svg" width=51% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=seungyong&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+</a>
+
+<br><br><br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seungyong&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungyong&layout=compact&theme=dracula" alt="Top Langs" width="45%" />
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungyong&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
-
-## 📫 연락처
-- **이메일:** [kseungyong20@gmail.com](mailto:kseungyong20@gmail.com)
-
-감사합니다! 😄
