@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="Flask" />
 </div>
 
-## 📊 Top Langs
+## 📊 Information
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seungyong&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungyong&layout=compact&theme=dracula" alt="Top Langs" width="45%" />
