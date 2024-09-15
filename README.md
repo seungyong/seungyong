@@ -1,12 +1,11 @@
 # 안녕하세요! 👋
 
 <div align="center">
+  
   <!-- Notion Badge -->
-  
-  ![Notion](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-  
+  [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />](https://www.notion.so/9083b3565fb9478ead59bfe8bc7d3ebb?pvs=4)
   <!-- Tistory Badge -->
-  ![Tistory](https://img.shields.io/badge/Tistory-%23000000.svg?style=for-the-badge&logo=tistory&logoColor=orange)
+  [<img src="https://img.shields.io/badge/Tistory-%23000000.svg?style=for-the-badge&logo=tistory&logoColor=orange" alt="Tistory" />](https://www.notion.so/9083b3565fb9478ead59bfe8bc7d3ebb?pvs=4)
 </div>
 
 ## 🛠 기술 스택
@@ -28,13 +27,13 @@
 </div>
 
 ## 📊 Information
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=seungyong&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
 </a>
-<a href="https://github.com/devpla/github-stats">
+<a href="#">
  <img src="https://raw.githubusercontent.com/devpla/github-stats/output/generated/languages.svg" width=51% />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="#">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=seungyong&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
 </a>
 
