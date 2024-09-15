@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=seungyong&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
 </a>
 <a href="#">
- <img src="https://raw.githubusercontent.com/devpla/github-stats/output/generated/languages.svg" width=51% />
+ <img src="https://raw.githubusercontent.com/seungyong/github-stats-transparent/output/generated/languages.svg" width=51% />
 </a>
 <a href="#">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=seungyong&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
