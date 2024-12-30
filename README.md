@@ -3,9 +3,9 @@
 <div align="center">
   
   <!-- Notion Badge -->
-  [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />](https://www.notion.so/9083b3565fb9478ead59bfe8bc7d3ebb?pvs=4)
+  [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />](https://weak-watercress-d88.notion.site/Portfolio-16ccc5ce59f88045a336f093931621b3)
   <!-- Tistory Badge -->
-  [<img src="https://img.shields.io/badge/Tistory-%23000000.svg?style=for-the-badge&logo=tistory&logoColor=orange" alt="Tistory" />](https://seungyong20.tistory.com/)
+  [<img src="https://img.shields.io/badge/Tech_Blog-%23000000.svg?style=for-the-badge&logo=tistory&logoColor=orange" alt="Tech Blog" />](https://seungyong20.tistory.com/)
 </div>
 
 ## 🛠 기술 스택
