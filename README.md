@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Notion Badge -->
-  [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />](https://weak-watercress-d88.notion.site/Portfolio-16ccc5ce59f88045a336f093931621b3)
+  [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />](https://slender-seahorse-e2f.notion.site/Portfolio-19dff6d2ce6180ce9161cff549e59dcd?pvs=4/)
   <!-- Tistory Badge -->
   [<img src="https://img.shields.io/badge/Tech_Blog-%23000000.svg?style=for-the-badge&logo=tistory&logoColor=orange" alt="Tech Blog" />](https://seungyong20.tistory.com/)
 </div>
